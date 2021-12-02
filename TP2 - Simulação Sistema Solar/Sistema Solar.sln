@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Sistema Solar", "Sistema Solar.vcxproj", "{A9B00C3F-79D3-459C-B286-1D84B896BAF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B00C3F-79D3-459C-B286-1D84B896BAF5}.Debug|x86.ActiveCfg = Debug|Win32
+		{A9B00C3F-79D3-459C-B286-1D84B896BAF5}.Debug|x86.Build.0 = Debug|Win32
+		{A9B00C3F-79D3-459C-B286-1D84B896BAF5}.Release|x86.ActiveCfg = Release|Win32
+		{A9B00C3F-79D3-459C-B286-1D84B896BAF5}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4B76FE6-8610-4AEF-B01B-ACC062A38369}
+	EndGlobalSection
+EndGlobal
